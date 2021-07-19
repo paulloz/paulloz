@@ -3,7 +3,7 @@
 Freelance game (or cool projects) developer and available for [hire](https://pauljoannon.com/en_GB/contact).  
 Actually in a one way love relationship with data science.
 
-- 🖥️ **Profesionnal stuff:** https://pauljoannon.com
+- 🖥️ **Professional stuff:** https://pauljoannon.com
 - ✏️ **Blog:** https://paulloz.com
 - 🐦 **Twitter:** https://twitter.com/pauljoannon
 - ✉️ **Email:** hello{at}󠁀󠁀pauljoannon{dot}com 
