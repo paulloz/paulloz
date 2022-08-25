@@ -4,7 +4,6 @@ Freelance game (or cool projects) developer and available for [hire](https://pau
 Actually in a one way love relationship with data science.
 
 - 🖥️ **Professional stuff:** https://pauljoannon.com
-- ✏️ **Blog:** https://gerogero.blog
 - 🐦 **Twitter:** https://twitter.com/pauljoannon
 - ✉️ **Email:** hello{at}󠁀󠁀pauljoannon{dot}com 
 - 🔑 **PGP:** [9360 4DC6 128B 663C](https://keys.openpgp.org/vks/v1/by-fingerprint/C4F04ED371BACE1AB056CA7193604DC6128B663C)
