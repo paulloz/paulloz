@@ -1,9 +1,8 @@
-### Hi!
+### Hello, it's paulloz!
 
-Freelance game (or cool projects) developer and available for [hire](https://pauljoannon.com/en_GB/contact).  
+I'm a freelance game developer, and part of the .NET team [@godotengine](https://github.com/godotengine/godot).
 
 * 🖥️ **Professional stuff:** https://pauljoannon.com
-* ✉️ **Email:** mail@pauljoannon.com
 * 🐤 **Twitter:** https://twitter.com/pauljoannon
 * 🐘 **Mastodon:** https://toot.subak.club/@paulloz
 * 🌤️ **Bluesky:** https://bsky.app/profile/paulloz.bsky.social
